@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on [https://github.com/ostix360/JMEGameEngine] (My Game Engine)
+- 🔭 I’m currently working on [My Game Engine] (https://github.com/ostix360/JMEGameEngine)
 
 - 📫 How to reach me: -https://discord.gg/aEPdAxr
                       - Ostix360#1072
