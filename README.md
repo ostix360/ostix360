@@ -15,7 +15,7 @@
 - ✍️ I'm currently leanring Rust
 
                      
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ostix360&line_height=20&title_color=7A7ADB&include_all_commits=true&rank_icon=percentile&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ostix360 Github Stats"/>    
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=ostix360&theme=discord&no-frame=true&no-bg=true&title=MultiLanguage,Commits,Repositories,PullRequest,Issues,Stars" alt="Ostix360 Github Stats"/>    
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ostix360&layout=compact" alt="Ostix360 Language Card"/>    
