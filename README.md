@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently working on [My Game Engine](https://github.com/ostix360/JMEGameEngine)
-
 - 📫 How to reach me: 
       
 - [on my Discord](https://discord.gg/aEPdAxr)
@@ -10,9 +7,8 @@
 - Ostix360#1072
 
 - ostix360@gmail.com
-              
 
-- ✍️ I'm currently leanring Rust
+- I use Java, Python, Vue.JS, Rust
 
                      
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=ostix360&theme=discord&no-frame=true&no-bg=true&title=MultiLanguage,Commits,Repositories,PullRequest,Issues,Stars" alt="Ostix360 Github Stats"/>    
